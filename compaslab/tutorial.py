@@ -42,6 +42,7 @@ class Tutorial:
         '''
         show the next cell
         '''
+        print("DOING")
         self.show(self.current)
         self.current += 1
 
